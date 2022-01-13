@@ -54,9 +54,13 @@ button {
     border-radius: 10px;
 }
 
-.add-button {
+#add-button {
     background-color:rgb(92, 92, 92);
     color:white;
+}
+
+#add-button:hover {
+    background-color: rgb(138, 137, 137);
 }
 
 h2 {
